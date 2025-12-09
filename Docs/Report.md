@@ -31,3 +31,11 @@
     - Script for triggers & constraints.
 - **What we did:** Added triggers and put them in separete files according to the tasks we got. Also polished our program a bit.
 - **Problems/Hurdles:** No problems today.
+  
+- -----------------------------------------------------------------------------------------------------------------------------------
+- **Team Reporter and Date** Coday 2025-12-09
+- **Members Present:** Johan, Coday, björn
+- **Sprint goal (weekly todo):**
+    - Implementera dataåtkomst med Entity Framework
+- **What we did:** Implemented data access with Entity Framework
+- **Problems/Hurdles:** we had problem with implementing data access because we created the project with .NET 9 and all the pachages were 8.
