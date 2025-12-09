@@ -1,0 +1,33 @@
+- **Team Reporter and Date:** Björn - 20251118
+- **Members Present:** Johan, Björn, Sepideh, Coday
+- **Sprint goal (weekly todo):**  
+  - Create a full ER Diagram
+  - Normalize to 3NF
+  - Write backlog with user stories and break down into tasks
+- **What we did:** We kept on working on the ER Diagram - we are still having issues forming a working picture in our heads. We feel we understand the needs of the database, we just struggle putting in into documentation. We are hoping to be able to show and discuss our probably faulty design with Malin to learn how we should be thinking. The stories we have from last week. We feel that it's a bit hard to break down the stories further without going further into the development.
+- **Problems/Hurdles:** Still struggling with understanding cardinalities in ER Diagrams
+- 
+----------------------------------------------------------------------------------------------------------------------------------
+- **Team Reporter and Date** Johan 2025-11-11
+- **Members Present:** Johan, Björn, Sepideh, Coday
+- **Sprint goal (weekly todo):**
+  -First draft of ER-diagram, list of requirements and the beginning of a backlog with user stories 
+- **What we did:** We started with assigning roles to the different people in our group and and made a github, after that we made a ER-diagram together
+- **Problems/Hurdles:** The tasks we got were a bit broad and the DoD was not entirely easy to understand so we were unsure if we were done or not.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+- **Team Reporter and Date** Coday 2025-11-25
+- **Members Present:** Johan, Sepideh, Coday
+- **Sprint goal (weekly todo):**
+    - Create database in SSMS
+    - Create tables and relationtions 
+- **What we did:** We started with assigning roles, after we started with database creating and creating tables and relationtions between the tables. 
+- **Problems/Hurdles:** No problems today everything when smooth.
+
+- -----------------------------------------------------------------------------------------------------------------------------------
+- **Team Reporter and Date** Johan 2025-12-02
+- **Members Present:** Johan, Coday
+- **Sprint goal (weekly todo):**
+    - Script for triggers & constraints.
+- **What we did:** Added triggers and put them in separete files according to the tasks we got. Also polished our program a bit.
+- **Problems/Hurdles:** No problems today.
