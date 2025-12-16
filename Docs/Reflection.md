@@ -31,3 +31,5 @@ A few things I learned just from the project was how to interpret a task sent fr
 Contribution wise I have written some of the weekly reports and also helped writing the code in SQL.
 
 Coday - I feel that I have learned more about SQL, such as triggers, constraints, and similar concepts. The collaboration with the team has worked well. Everyone contributes and does their part. Communication has been good, and we have helped each other. I have contributed by writing SQL queries, which has been very educational.
+
+Björn - I enjoy SQL as where C# usually result in "This should work... Oh shi...", but SQL is udually "This shouldn't work. Holy h*ll, it WORKS!". Nice with a refresher of SQL. When trying to create views for the project it refused to work as I wanted it to. But Gemini taught me about STRING_AGG which solved all our problems. Due to illness I missed one whole session, but the team did amazing work in my absence. I think I contributed by helping with understanding of SQL since it is something I studied before and which I feel pretty comfortable with.
