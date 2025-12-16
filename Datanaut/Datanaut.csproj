@@ -19,4 +19,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Views\" />
+    <Folder Include="Procedures\" />
+  </ItemGroup>
+
 </Project>
