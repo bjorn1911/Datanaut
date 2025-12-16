@@ -1,6 +1,6 @@
 -- Create database
 GO
-CREATE DATABASE DatnautDB
+CREATE DATABASE DatanautDB
 GO
 USE DatanautDB
 GO
@@ -9,7 +9,7 @@ GO
 
 -- Resource table
 CREATE TABLE Resource (
-  ResourceId INT PRIMARY KEY,
+  ResourceId INT IDENTITY(1,1) PRIMARY KEY,
   Software NVARCHAR(50),
   Licence NVARCHAR(50),
   Equipment NVARCHAR(50)
