@@ -27,6 +27,7 @@ So if we were to do this again we would have a better understanding on where and
 
 ### **Individual reflection**: A brief summary of each team member’s personal learnings and contributions:
 Johan - I feel like i learnt alot of general knowledge in Sql since the project took place at the same time as the course. 
-A few things I learned just from the project was how to interpret a task sent from a "company", this was challenging since we lacked instructions and
-I sometimes found it hard to know where to begin.
+A few things I learned just from the project was how to interpret a task sent from a "company", this was challenging since we lacked instructions and I sometimes found it hard to know where to begin.
 Contribution wise I have written some of the weekly reports and also helped writing the code in SQL.
+
+Coday - I feel that I have learned more about SQL, such as triggers, constraints, and similar concepts. The collaboration with the team has worked well. Everyone contributes and does their part. Communication has been good, and we have helped each other. I have contributed by writing SQL queries, which has been very educational.
