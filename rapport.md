@@ -1,25 +1,25 @@
-# ?? Project: Datanaut
+﻿# 🚀 Project: Datanaut
 
-## ?? Overview
+## 🌟 Overview
 
-This project implements a complete [Describe the System, e.g., student and course administration system], focusing on robust backend functionality and data management. Key components include data modeling, a fully normalized SQL Server database, Entity Framework integration, and complex data querying using LINQ.
+This project implements a complete **data-driven backend solution**, focusing on robust backend functionality and data management. Key components include data modeling, a fully normalized SQL Server database, Entity Framework integration, and complex data querying using LINQ.
 
 This application serves as the core solution for the "Project Team" and is primarily a console-based application focusing on storing and retrieving information.
 
 ---
 
-## ?? What You Need to Run the Program
+## 💻 What You Need to Run the Program
 
 To run, build, and contribute to this project, ensure you have the following technologies and tools installed:
 
 * **SQL Server**
 * **SQL Server Management Studio (SSMS)**
-* **Visual Studio** (Recommended: Latest Stable Version)
-* **.NET** (Required SDK version for the project)
+* **Visual Studio** 
+* **.NET** 
 * **Entity Framework**
-* **Entity Framework Tools** (for migrations and database management)
+* **Entity Framework Tools** 
 
-### ?? Database Setup Guide
+### 🛠 Database Setup Guide
 
 Follow these steps to correctly initialize the database structure and populate it with seed data:
 
@@ -39,7 +39,7 @@ Follow these steps to correctly initialize the database structure and populate i
 
 ---
 
-## ?? Development Environment (VS Code & Visual Studio)
+## ⚙️ Development Environment (VS Code & Visual Studio)
 
 While Visual Studio is required for optimal Entity Framework use, VS Code is recommended for file management and documentation editing.
 
@@ -51,9 +51,9 @@ While Visual Studio is required for optimal Entity Framework use, VS Code is rec
 
 ---
 
-## ?? About the Program
+## 🚀 About the Program
 
-This is a console-based application focused on [backend/data management]. The system is operated through a simple menu system, built using SQL Server (SSMS), Visual Studio, and Entity Framework.
+This is a console-based application focused on **data management and sophisticated reporting**. The system is operated through a simple menu system, built using SQL Server (SSMS), Visual Studio, and Entity Framework.
 
 ### Weekly Assignment Goals (Definition of Done - DoD)
 
@@ -64,7 +64,7 @@ This is a console-based application focused on [backend/data management]. The sy
 
 ---
 
-## ?? Workflow and Documentation
+## 📂 Workflow and Documentation
 
 The full report, including reflection on the work process and team dynamics, is located in the **`docs/rapport.md`** file.
 
@@ -73,7 +73,7 @@ The full report, including reflection on the work process and team dynamics, is 
 | Category | Details |
 | :--- | :--- |
 | **Reporter and Date** | Sepideh, 2025-12-16 |
-| **Participants (Attendance)** | Sepideh, Bj�rn, Johan, Coday |
+| **Participants (Attendance)** | Sepideh, Björn, Johan, Coday |
 | **Sprint Goal (DoD)** | Interpret the order, create an ER-Diagram normalized to 3NF, and start the database in SQL Server. |
 | **Activities** | Discussion of requirements, ER-Diagram design, task division. |
 | **Problems/Obstacles** | Initial difficulties encountered with Foreign Keys and table relationships during SQL setup. |
@@ -83,14 +83,14 @@ The full report, including reflection on the work process and team dynamics, is 
 To contribute to this project, you should first fork the repository:
 
 1.  **Go to the repository:** Open the GitHub page of this project.
-2.  **Click the �Fork� button:** In the upper-right corner of the page, click the Fork button.
+2.  **Click the “Fork” button:** In the upper-right corner of the page, click the Fork button.
 3.  **Choose your GitHub account:** Select your own account or organization.
 4.  **Wait for GitHub to create the fork:** This process is usually quick.
 5.  **You now have your own copy:** Find it under your profile and start working.
 
 ---
 
-## ?? Technologies Used
+## 🛠 Technologies Used
 
 * Visual Studio
 * C#
@@ -100,12 +100,12 @@ To contribute to this project, you should first fork the repository:
 
 ---
 
-## ?? Collaborators
+## 🤝 Collaborators
 
 | Name | Role during Session/Contribution |
 | :--- | :--- |
 | **Sepideh Shoghirabani** | Reporter, Documentation, README |
-| **Bj�rn** | SQL Database Setup, Table Creation |
-| **Johan** | Process Reflection (writing `rapport.md`) |
+| **Björn** | SQL Database Setup, Table Creation |
+| **Johan** | Process Reflection  |
 | **Coday** | C# Console Application Development |
 
